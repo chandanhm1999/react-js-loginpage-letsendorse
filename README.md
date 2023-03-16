@@ -1,6 +1,17 @@
 Versel Hosted Link: https://react-js-loginpage-letsendorse.vercel.app/
 
+React-user authentication and management application (login-page)
+
+*Accept new user details fields to update and store the updated data in an encrypted format.
+
+*The payload must include the basic details of the user such as the email, mobile number, full name and initial password. Once the data is received at the backend, all PII (Personally identifiable data) such as email, mobile number and full name are to be encrypted using a strong public key.
+
+*Accept new user details fields to update and store the updated data in an encrypted format.
+
 App Link : https://react-js-loginpage-letsendorse.vercel.app/
+
+
+
 
 # Getting Started with Create React App
 
